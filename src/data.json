@@ -328,7 +328,7 @@
             },
             {
                 "nickname": "Dulce Esperanza Alarcón Yaquetto",
-                "img_url": "https://bit.ly/2wTkyEk",
+                "img_url": "https://avatars3.githubusercontent.com/u/50649049?s=460&u=c37c7ceec5961fe761354ec80b266f3c041578d0&v=4",
                 "skills": ["Biology", "Physiology", "R programming", "Statistics"],
                 "tags": ["Biologist", "Researcher"],
                 "description": "Hola, me llamo Dulce. Soy Bióloga y tengo una Maestría en Informática Biomédica. Me dedico a la docencia e investigación en la Universidad Peruana Cayetano Heredia. Mis intereses de investigación incluyen (pero no están limitados a) el desarrollo e implementación de nuevas tecnologías en salud, salud ambiental y de altura. ",
@@ -344,25 +344,29 @@
                         "type": "facebook",
                         "label": "fb",
                         "value": "abc@abc.com",
-                        "link": "https://www.facebook.com/anandamidebliss"
+                        "link": "https://www.facebook.com/anandamidebliss",
+                        "icon": "assets//icons/003-facebook.svg"
                     },
                     {
                         "type": "github",
                         "label": "gh",
                         "value": "abc@abc.com",
-                        "link": "https://github.com/dulceyaquetto"
+                        "link": "https://github.com/dulceyaquetto",
+                        "icon": "assets//icons/005-github.svg"
                     },
                     {
                         "type": "twitter",
                         "label": "tw",
                         "value": "abc@abc.com",
-                        "link": "https://twitter.com/dulceyaquetto"
+                        "link": "https://twitter.com/dulceyaquetto",
+                        "icon": "assets//icons/002-twitter.svg"
                     },
                     {
                         "type": "instagram",
                         "label": "ig",
                         "value": "abc@abc.com",
-                        "link": "https://www.instagram.com/dulceyaquetto"
+                        "link": "https://www.instagram.com/dulceyaquetto",
+                        "icon": "assets//icons/001-instagram.svg"
                     }
                 ]
             },
