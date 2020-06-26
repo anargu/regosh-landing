@@ -749,6 +749,21 @@
                         "link": "https://google.com"
                     }
                 ]
+            },
+            {
+                "nickname": "Cristthian Arpino",
+                "img_url": "https://tecnologias.libres.cc/uploads/-/system/user/avatar/21/avatar.png?width=400",
+                "skills": [],
+                "tags": [],
+                "description": "",
+                "contact_list": [{
+                        "type": "gitlab",
+                        "label": "gl",
+                        "value": "Semantic Memorys: notes by Cristthian",
+                        "icon": "assets//icons/011-gitlab.svg",
+                        "link": "https://tecnologias.libres.cc/c_arpino/semantic-memorys/wikis/home"
+                    }
+                ]
             }
         ]
     }],
