@@ -15,6 +15,7 @@ var projectList = new ProjectList([
 ], '.item-grid')
 
 var memberList = new MemberList(data.residences || [], '.section.team')
+var organizerList = new MemberList(data.organizers || [], '.section.organization')
 
 new ShareList(data.shares || [], '.section.share')
 
@@ -25,7 +26,8 @@ setTimeout(() => {
 
 intl.loadTranslatableComponents([
     projectList,
-    memberList
+    memberList,
+    organizerList
 ])
 
 intl.loadTranslatableElems(data.landing, [
@@ -38,6 +40,7 @@ intl.loadTranslatableElems(data.landing, [
     { selector: '#projects-section > h3', key: 'landing.projects_title' },
     
     { selector: '#team-section > h3', key: 'landing.the_team_title' },
+    { selector: '#organization-section > h3', key: 'landing.organization_section_title' },
 
     { selector: '#about-section > h3', key: 'landing.what_is_gosh_title' },
     { selector: '#about-section > p', key: 'landing.what_is_gosh_description' },

@@ -28,6 +28,10 @@
         "the_team_title_en": "The Team",
         "the_team_title_es": "El Equipo",
 
+        "organization_section_title_pr": "Organizador da equipe",
+        "organization_section_title_en": "Organization",
+        "organization_section_title_es": "Equipo Organizador",
+
         "what_is_gosh_title_pr": "O QUE É O GOSH?",
         "what_is_gosh_title_en": "What is Gosh?",
         "what_is_gosh_title_es": "¿Qué es GOSH?",
@@ -126,10 +130,10 @@
         }
     ],
     "residences": [{
-        "title": "Residencia 2019. Porto Alegre, Br",
-        "title_en": "Residence 2019. Porto Alegre, Br",
-        "title_es": "Residencia 2019. Porto Alegre, Br",
-        "title_pr": "Residencia 2019. Porto Alegre, Br",
+        "title": "Residencia 2019. Porto Alegre, Brasil",
+        "title_en": "Residence 2019. Porto Alegre, Brasil",
+        "title_es": "Residencia 2019. Porto Alegre, Brasil",
+        "title_pr": "Residencia 2019. Porto Alegre, Brasil",
         "members": [{
                 "nickname": "Anabela Laudecina",
                 "img_url": "assets//avatar.png",
@@ -762,6 +766,52 @@
                         "value": "Semantic Memorys: notes by Cristthian",
                         "icon": "assets//icons/011-gitlab.svg",
                         "link": "https://tecnologias.libres.cc/c_arpino/semantic-memorys/wikis/home"
+                    }
+                ]
+            }
+        ]
+    }],
+    "organizers": [{
+        "members": [
+            {
+                "nickname": "Julieta Arancio",
+                "img_url": "assets//avatar.png",
+                "skills": [],
+                "tags": [],
+                "description": "",
+                "contact_list": [{
+                        "type": "email",
+                        "label": "email",
+                        "value": "abc@abc.com",
+                        "link": "https://google.com"
+                    },
+                    {
+                        "type": "facebook",
+                        "label": "fb",
+                        "value": "abc@abc.com",
+                        "link": "https://google.com",
+                        "icon": "assets//icons/003-facebook.svg"
+                    },
+                    {
+                        "type": "github",
+                        "label": "gh",
+                        "value": "abc@abc.com",
+                        "link": "https://google.com",
+                        "icon": "assets//icons/005-github.svg"
+                    },
+                    {
+                        "type": "twitter",
+                        "label": "tw",
+                        "value": "abc@abc.com",
+                        "link": "https://google.com",
+                        "icon": "assets//icons/002-twitter.svg"
+                    },
+                    {
+                        "type": "instagram",
+                        "label": "ig",
+                        "value": "abc@abc.com",
+                        "link": "https://google.com",
+                        "icon": "assets//icons/001-instagram.svg"
                     }
                 ]
             }
